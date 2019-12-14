@@ -1,0 +1,127 @@
+[{
+"name": "spawnpoint (1)",
+"tag":"spawnpoint",
+"pos": {
+  "x": -17.8,
+  "y": 5.1,
+  "z": 0.0
+}},{
+"name": "Cucumber (1)(Clone)",
+"tag":"Cucumber",
+"pos": {
+  "x": 17.09,
+  "y": 2.35,
+  "z": 0.0
+}},{
+"name": "Cucumber (1)(Clone)",
+"tag":"Cucumber",
+"pos": {
+  "x": -9.36,
+  "y": 7.13,
+  "z": 0.0
+}},{
+"name": "Cucumber (1)(Clone)",
+"tag":"Cucumber",
+"pos": {
+  "x": -8.58,
+  "y": 12.24,
+  "z": 0.0
+}},{
+"name": "key(Clone)",
+"tag":"key",
+"pos": {
+  "x": 17.16,
+  "y": 3.54,
+  "z": 0.0
+}},{
+"name": "2D ToonBear(Clone)",
+"tag":"bear",
+"pos": {
+  "x": -0.7,
+  "y": 6.1,
+  "z": 0.0
+}},{
+"name": "jetpack(Clone)",
+"tag":"jetpack",
+"pos": {
+  "x": 13.4,
+  "y": 12.6,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": 16.9,
+  "y": 0.6,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -17.99,
+  "y": 1.96,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -6.04,
+  "y": 10.88,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -0.6,
+  "y": -3.11,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": 12.92,
+  "y": 9.79,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -8.99,
+  "y": 4.81,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -0.9,
+  "y": 0.7,
+  "z": 0.0
+}},{
+"name": "door(Clone)",
+"tag":"door",
+"pos": {
+  "x": -5.9,
+  "y": 13.0,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -8.6,
+  "y": 10.02,
+  "z": 0.0
+}},{
+"name": "Barrel (34)(Clone)",
+"tag":"Barrel",
+"pos": {
+  "x": -16.96,
+  "y": 7.47,
+  "z": 0.0
+}},{
+"name": "Tile-Sets (64-64)_1 (2)",
+"tag":"Tiles",
+"pos": {
+  "x": -108.8,
+  "y": -51.9,
+  "z": 0.0
+}},]

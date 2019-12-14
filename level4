@@ -1,0 +1,78 @@
+[{
+"name": "Barrel (35)",
+"tag":"Barrel",
+"pos": {
+  "x": -16.96,
+  "y": 7.47,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -17.99,
+  "y": 1.96,
+  "z": 0.0
+}},{
+"name": "door(Clone)",
+"tag":"door",
+"pos": {
+  "x": 37.1,
+  "y": 19.2,
+  "z": 0.0
+}},{
+"name": "door(Clone)",
+"tag":"door",
+"pos": {
+  "x": -5.9,
+  "y": 13.0,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -0.9,
+  "y": 0.7,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -8.99,
+  "y": 4.81,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": 12.92,
+  "y": 9.79,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -0.6,
+  "y": -3.11,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -6.04,
+  "y": 10.88,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -17.99,
+  "y": 1.96,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": 16.9,
+  "y": 0.6,
+  "z": 0.0
+}},]

@@ -1,0 +1,169 @@
+[{
+"name": "platform (5)",
+"tag":"platform",
+"pos": {
+  "x": -9.09,
+  "y": -1.75,
+  "z": 0.0
+}},{
+"name": "platform (4)",
+"tag":"platform",
+"pos": {
+  "x": -15.73,
+  "y": -2.9,
+  "z": 0.0
+}},{
+"name": "Barrel (35)",
+"tag":"Barrel",
+"pos": {
+  "x": -9.46,
+  "y": 2.15,
+  "z": 0.0
+}},{
+"name": "Text",
+"tag":"Untagged",
+"pos": {
+  "x": -2.22758484,
+  "y": 7.041474,
+  "z": 0.0
+}},{
+"name": "Placeholder",
+"tag":"Untagged",
+"pos": {
+  "x": -2.22758484,
+  "y": 7.281206,
+  "z": 0.0
+}},{
+"name": "InputField",
+"tag":"FileNameInputText",
+"pos": {
+  "x": -2.269844,
+  "y": 7.25883341,
+  "z": 0.0
+}},{
+"name": "Text",
+"tag":"Untagged",
+"pos": {
+  "x": 0.120954514,
+  "y": 5.065041,
+  "z": 0.0
+}},{
+"name": "Button",
+"tag":"Untagged",
+"pos": {
+  "x": 0.120954514,
+  "y": 5.065041,
+  "z": 0.0
+}},{
+"name": "Text",
+"tag":"Untagged",
+"pos": {
+  "x": -4.962677,
+  "y": 5.0892787,
+  "z": 0.0
+}},{
+"name": "Button",
+"tag":"Untagged",
+"pos": {
+  "x": -4.962677,
+  "y": 5.0892787,
+  "z": 0.0
+}},{
+"name": "groundcheck",
+"tag":"Untagged",
+"pos": {
+  "x": -16.058754,
+  "y": -1.251537,
+  "z": 0.0
+}},{
+"name": "Main Camera",
+"tag":"MainCamera",
+"pos": {
+  "x": -16.0,
+  "y": 1.0,
+  "z": -10.0
+}},{
+"name": "2D ToonBear",
+"tag":"bear",
+"pos": {
+  "x": -16.0,
+  "y": 0.0,
+  "z": 0.0
+}},{
+"name": "key",
+"tag":"key",
+"pos": {
+  "x": -17.0,
+  "y": 3.0,
+  "z": 0.0
+}},{
+"name": "door",
+"tag":"door",
+"pos": {
+  "x": 37.1,
+  "y": 19.2,
+  "z": 0.0
+}},{
+"name": "Cucumber (1)",
+"tag":"Cucumber",
+"pos": {
+  "x": -18.26,
+  "y": 3.22,
+  "z": 0.0
+}},{
+"name": "platform (3)",
+"tag":"platform",
+"pos": {
+  "x": -17.99,
+  "y": 1.96,
+  "z": 0.0
+}},{
+"name": "hero1",
+"tag":"Untagged",
+"pos": {
+  "x": -0.59,
+  "y": -0.51,
+  "z": 0.0
+}},{
+"name": "Barrel (2)",
+"tag":"Untagged",
+"pos": {
+  "x": -18.48,
+  "y": 2.94,
+  "z": 0.0
+}},{
+"name": "Canvas",
+"tag":"Health_Text",
+"pos": {
+  "x": -16.0,
+  "y": 1.0,
+  "z": 0.0
+}},{
+"name": "jetpack",
+"tag":"jetpack",
+"pos": {
+  "x": -21.47,
+  "y": 8.74,
+  "z": 0.0
+}},{
+"name": "Tile-Sets (64-64)_1 (2)",
+"tag":"Untagged",
+"pos": {
+  "x": -105.66,
+  "y": -52.71,
+  "z": 0.0
+}},{
+"name": "Barrel (34)",
+"tag":"Barrel",
+"pos": {
+  "x": -16.96,
+  "y": 7.47,
+  "z": 0.0
+}},{
+"name": "EventSystem",
+"tag":"Untagged",
+"pos": {
+  "x": 0.0,
+  "y": 0.0,
+  "z": 0.0
+}},]

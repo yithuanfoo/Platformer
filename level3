@@ -1,0 +1,64 @@
+[{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -17.99,
+  "y": 1.96,
+  "z": 0.0
+}},{
+"name": "door(Clone)",
+"tag":"door",
+"pos": {
+  "x": 37.1,
+  "y": 19.2,
+  "z": 0.0
+}},{
+"name": "door(Clone)",
+"tag":"door",
+"pos": {
+  "x": 6.0,
+  "y": 23.1,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -0.8,
+  "y": 0.9,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -0.1,
+  "y": 5.2,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": 0.5,
+  "y": 11.1,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -0.6,
+  "y": -3.11,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": 0.5,
+  "y": 8.2,
+  "z": 0.0
+}},{
+"name": "platform (3)(Clone)",
+"tag":"platform",
+"pos": {
+  "x": -17.99,
+  "y": 1.96,
+  "z": 0.0
+}},]
